@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Olá, me Chamo Gilberto Rodrigues!
+![Snake animation](https://github.com/GilbertoRSilva/GilbertoRSilva/blob/output/github-contribution-grid-snake.svg)
 <!--
 **GIlbertoRSilva/GilbertoRSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
