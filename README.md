@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Gilberto R. Silva
+# Gilberto R. Silva
 
 Me chamo Gilberto Rodrigues da Silva, tenho 24 anos e sou natural do Ceará. Atualmente, estou cursando Bacharelado em Ciências da Computação no IFCE. Tenho grande interesse em pesquisa científica, e meus temas de maior interesse envolvem:
 
