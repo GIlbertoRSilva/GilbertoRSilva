@@ -33,4 +33,5 @@ Me chamo Gilberto Rodrigues da Silva, tenho 24 anos e sou natural do Ceará. Atu
 ### Atualmente estudando:
   - Neo4j
   - Python para análise de dados e ml
+  - Power BI
 
